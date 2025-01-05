@@ -17,7 +17,7 @@ cd Applying-Math-with-Python
 ```
 Install required dependencies:
 
-##How to Use
+## How to Use
 
 * Browse the examples/ directory for specific topics.
 * Run individual scripts to explore concepts.
