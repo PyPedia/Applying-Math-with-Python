@@ -22,3 +22,6 @@ Install required dependencies:
 * Browse the examples/ directory for specific topics.
 * Run individual scripts to explore concepts.
 * Modify and experiment with the code to deepen your understanding.
+
+## Contributions
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
